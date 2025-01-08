@@ -1,7 +1,6 @@
 # План на 2025 год
-=====================
 
-![Data Engineer с нуля до junior](https://stepik.org/course/137235/syllabus)
+![Data Engineer с нуля до junior](https://stepik.org/course/137235?search=6297983506)
 
 ## 📚 Описание проекта
 
